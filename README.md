@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=25&lines=Computer+Science+Student;Budding+Developer;Opensource+%7C+DSA+%7C+Reader"></a>
 </p>
 <hr/>
-<h4 align="center">I am CSE student @WCE Sangli pursuing my bachelors degree. I am in third Year. I like to Code, Design, Innovate and Experiment. I am an enthusiastic who loves to take up new challenges and learn new skills. I like meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a CSE student @WCE Sangli pursuing my bachelor's degree. I am in my third year. I like to Code, Design, Innovate and Experiment. I am enthusiastic and love to take up new challenges and learn new skills. I like meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 <h2 align="center"> 🔥 Streak Stats</h2>
