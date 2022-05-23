@@ -37,14 +37,11 @@
 
 <h2 align="center"> 🙋‍♀️ Let's Connect </h2>
 <p align="center">
-  <a href="https://vinayakgaikwad.live/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:gaikwadvinayak291@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://twitter.com/Vinayak__G"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-	<a href="https://github.com/vinayak-gaikwad"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  	<a href="https://vinayakgaikwad.live/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="https://twitter.com/Vinayak__G"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://www.linkedin.com/in/vinayak-gaikwad291/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/vinayak._.gaikwad/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-	
+	<a href="mailto:gaikwadvinayak291@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>	
 </p>
 
 <hr/>
